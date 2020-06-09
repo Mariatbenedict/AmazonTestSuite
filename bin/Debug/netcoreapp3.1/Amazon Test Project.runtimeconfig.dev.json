@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maria.Benedict\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maria.Benedict\\.nuget\\packages"
+    ]
+  }
+}
